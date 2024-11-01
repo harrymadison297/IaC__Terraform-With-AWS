@@ -42,3 +42,4 @@ IaC Practice with AWS and Terraform
 ## Some reference
 1. What is Terraform : https://community.aws/content/2ZCXPWGhX0arg0VsEz4DLa5bqXQ
 2. Using Terraform to create AWS IoT Things : https://community.aws/content/2iJVs17s7drNneJiB9GdYrNszWw/using-terraform-to-create-aws-iot-things
+3. S3 Bucket AWS from terraform: https://kodekloud.com/blog/how-to-create-aws-s3-bucket-using-terraform/
